@@ -4,4 +4,4 @@ $ git config --global user.name "monzil"
 $ git config --global user.email "skmonzil@gmail.com"
 $ git commit -m "test" 
 $ git push origin main // file uplod kora
-
+$ git clone https://github.com/skmonzil/test-test.git  // repository clone 
