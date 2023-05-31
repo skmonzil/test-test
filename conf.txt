@@ -5,4 +5,9 @@ $ git config --global user.email "skmonzil@gmail.com"
 $ git commit -m "test" 
 $ git push origin main // file uplod kora
 $ git clone https://github.com/skmonzil/test-test.git  // repository clone 
-create 
+// create sub branch comments
+$ git push origin dev_monzil
+$ git checkout -b "dev_monzil" // Switched to a new branch 'dev_monzil'
+
+
+
